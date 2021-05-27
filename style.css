@@ -1,0 +1,31 @@
+body {
+    font-family:sans-serif;
+    background-color: white;
+    text-align: center;
+    vertical-align: middle;
+  }
+  .dog-img {
+    width: 30px;
+    height: 30px;
+    object-fit:contain;
+  }
+  .container {
+    width: 400px;
+    
+    border-bottom: 8px;
+    margin: 60px auto;
+    padding: 20px;
+    padding-top: 10px;
+    border-radius: 8px;
+  }
+  .btn {
+    
+    cursor: pointer;
+    margin-top: 35px;
+    
+    font-size: 15px;
+  }
+  .heading{
+    margin-top: 30px;
+    color:#01030c;
+  }
